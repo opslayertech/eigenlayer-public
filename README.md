@@ -1,2 +1,2 @@
-# eigenlayer-public
-Public repo for Eigenlayer metadata
+# eigenlayer-config
+configuration files for eigenlayer registrations
